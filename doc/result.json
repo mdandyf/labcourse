@@ -1,0 +1,16 @@
+{"meta":
+	{"name":"mDandyFirmansyah","author":"mochamad.dandy@gmail.com","version":0.1},
+	"format":"node_tree",
+	"data":[
+	{
+		"id":"root","isroot":"true","topic":"MyMindMap"},
+		{"id":"child1","topic":"RDBMS' are not the first choice for Data Management where schema must be flexible in variations and changes"},
+		{"id":"child2","topic":"Test\r\r"},
+		{"id":"child3","topic":"lalalalalla "},
+		{"id":"child4","topic":"RDBMS' are not the first choice for Data Management where schema must be flexible in variations and changes\r"},
+		{"id":"child5","topic":"no no no "},
+		{"id":"child6","topic":"second one"},
+		{"id":"child7","topic":"Second Page Test"},
+		{"id":"child8","topic":"Third Page Highlight"}
+		]	
+}
